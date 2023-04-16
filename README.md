@@ -1,2 +1,2 @@
 # turing-complete
-For the "Turing Complete" computer emulator.
+Modules for the "Turing Complete" computer emulator.
